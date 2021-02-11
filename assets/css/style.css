@@ -16,3 +16,10 @@ i {color:#fff}
         
     } 
   }
+
+
+.bg-scroll{
+  background-color: rgba(0,0,0,.8) !important;
+  transition:all .5s;
+
+}
